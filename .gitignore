@@ -1,0 +1,16 @@
+/.venv/
+/.secrets/
+/cache/
+/data/
+/logs/
+/models/
+/output/
+/research/
+/runs/
+/tmp/
+.env
+.env.*
+__pycache__/
+*.pyc
+*.pt
+*.safetensors
